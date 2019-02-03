@@ -3,7 +3,7 @@
 # pylint: disable=too-many-lines
 """
 Configurator for Home Assistant.
-https://github.com/danielperna84/hass-configurator
+https://github.com/solventarchitect/hass-configurator
 """
 import os
 import sys
